@@ -1,0 +1,39 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ReportViewerCore.WinForms" Version="15.1.29" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GestaoVendas.Infra\GestaoVendas.Infra.csproj" />
+    <ProjectReference Include="..\GestaoVendas.Models\GestaoVendas.Models.csproj" />
+    <ProjectReference Include="..\GestaoVendas.Services\GestaoVendas.Services.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="DsVendas.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>DsVendas.xsd</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="DsVendas.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DsVendas.Designer.cs</LastGenOutput>
+    </None>
+    <None Update="Relatorios\RptVendas.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

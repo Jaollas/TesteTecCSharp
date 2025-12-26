@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joaol\\OneDrive\\\u00C1rea de Trabalho\\TesteTecC#\\GestaoVendas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A73FC4D7-E640-4221-8F63-700617ED0FEC}|GestaoVendas.WinForms\\GestaoVendas.WinForms.csproj|c:\\users\\joaol\\onedrive\\\u00E1rea de trabalho\\testetecc#\\gestaovendas\\gestaovendas.winforms\\frmrelatorios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A73FC4D7-E640-4221-8F63-700617ED0FEC}|GestaoVendas.WinForms\\GestaoVendas.WinForms.csproj|solutionrelative:gestaovendas.winforms\\frmrelatorios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A73FC4D7-E640-4221-8F63-700617ED0FEC}|GestaoVendas.WinForms\\GestaoVendas.WinForms.csproj|c:\\users\\joaol\\onedrive\\\u00E1rea de trabalho\\testetecc#\\gestaovendas\\gestaovendas.winforms\\frmrelatorios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A73FC4D7-E640-4221-8F63-700617ED0FEC}|GestaoVendas.WinForms\\GestaoVendas.WinForms.csproj|solutionrelative:gestaovendas.winforms\\frmrelatorios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A73FC4D7-E640-4221-8F63-700617ED0FEC}|GestaoVendas.WinForms\\GestaoVendas.WinForms.csproj|c:\\users\\joaol\\onedrive\\\u00E1rea de trabalho\\testetecc#\\gestaovendas\\gestaovendas.winforms\\relatorios\\rptvendas.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{A73FC4D7-E640-4221-8F63-700617ED0FEC}|GestaoVendas.WinForms\\GestaoVendas.WinForms.csproj|solutionrelative:gestaovendas.winforms\\relatorios\\rptvendas.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmRelatorios.cs",
+              "DocumentMoniker": "C:\\Users\\joaol\\OneDrive\\\u00C1rea de Trabalho\\TesteTecC#\\GestaoVendas\\GestaoVendas.WinForms\\FrmRelatorios.cs",
+              "RelativeDocumentMoniker": "GestaoVendas.WinForms\\FrmRelatorios.cs",
+              "ToolTip": "C:\\Users\\joaol\\OneDrive\\\u00C1rea de Trabalho\\TesteTecC#\\GestaoVendas\\GestaoVendas.WinForms\\FrmRelatorios.cs",
+              "RelativeToolTip": "GestaoVendas.WinForms\\FrmRelatorios.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwBgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T12:59:39.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmRelatorios.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\joaol\\OneDrive\\\u00C1rea de Trabalho\\TesteTecC#\\GestaoVendas\\GestaoVendas.WinForms\\FrmRelatorios.cs",
+              "RelativeDocumentMoniker": "GestaoVendas.WinForms\\FrmRelatorios.cs",
+              "ToolTip": "C:\\Users\\joaol\\OneDrive\\\u00C1rea de Trabalho\\TesteTecC#\\GestaoVendas\\GestaoVendas.WinForms\\FrmRelatorios.cs [Projeto]",
+              "RelativeToolTip": "GestaoVendas.WinForms\\FrmRelatorios.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T12:59:34.666Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RptVendas.rdlc [Criar]",
+              "DocumentMoniker": "C:\\Users\\joaol\\OneDrive\\\u00C1rea de Trabalho\\TesteTecC#\\GestaoVendas\\GestaoVendas.WinForms\\Relatorios\\RptVendas.rdlc",
+              "RelativeDocumentMoniker": "GestaoVendas.WinForms\\Relatorios\\RptVendas.rdlc",
+              "ToolTip": "C:\\Users\\joaol\\OneDrive\\\u00C1rea de Trabalho\\TesteTecC#\\GestaoVendas\\GestaoVendas.WinForms\\Relatorios\\RptVendas.rdlc [Criar]",
+              "RelativeToolTip": "GestaoVendas.WinForms\\Relatorios\\RptVendas.rdlc [Criar]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-12-26T12:51:17.579Z",
+              "EditorCaption": " [Criar]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
