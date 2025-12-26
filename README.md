@@ -2,7 +2,7 @@
 
 Este repositório contém a solução para o teste técnico de Desenvolvedor C# Pleno da empresa DeMaria. A aplicação é um sistema Desktop (Windows Forms) para gerenciamento de clientes, produtos e vendas, com foco em integridade de dados e arquitetura em camadas.
 
-##Tecnologias Utilizadas
+## Tecnologias Utilizadas
 - **.NET 8.0** (C# Moderno)
 - **Windows Forms** (Interface Gráfica)
 - **PostgreSQL 16** (Banco de Dados)
@@ -10,7 +10,7 @@ Este repositório contém a solução para o teste técnico de Desenvolvedor C# 
 - **ReportViewer + RDLC** (Relatórios)
 - **xUnit + Moq** (Testes Unitários e Mocks)
 
-##Arquitetura e Padrões
+## Arquitetura e Padrões
 O projeto foi estruturado seguindo o padrão de Arquitetura em Camadas para garantir a separação de responsabilidades:
 
 1.  **GestaoVendas.Models:** Camada transversal contendo Entidades, DTOs e Interfaces. É o núcleo que não depende de ninguém.
@@ -22,10 +22,10 @@ O projeto foi estruturado seguindo o padrão de Arquitetura em Camadas para gara
 ## Diagramas do Projeto
 
 ### Arquitetura da Solução
-![Diagrama de Arquitetura](docs/Diagrama_A_rquitetura.png)
+![Diagrama de Arquitetura](docs/Diagrama_Arquitetura.png)
 
 ### Modelagem de Classes (Domínio)
-![Diagrama de Classes](docs/Diagrama_C_lasses.png)
+![Diagrama de Classes](docs/Diagrama_Classes.png)
 
 ### Decisões Técnicas
 * **Injeção de Dependência (DI):** Foi implementada a injeção de dependência manual no `Program.cs` (Composition Root), garantindo que as classes sejam desacopladas e testáveis.
